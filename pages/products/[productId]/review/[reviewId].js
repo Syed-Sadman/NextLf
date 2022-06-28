@@ -10,6 +10,8 @@ function ReviewId() {
       <h1>
         This is a review for {reviewId} and {productId} page
       </h1>
+
+      <h1>git contribute issue </h1>
     </>
   );
 }
